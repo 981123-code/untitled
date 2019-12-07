@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a0bf915-c962-494c-9e03-67baceb529de" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Ub86pZHyFQ6YewgSIr0JtCap8e" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\admin\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\Users\admin\IdeaProjects\untitled" />
+          <option name="myCopyRoot" value="C:\Users\admin\IdeaProjects\untitled" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\Users\admin\IdeaProjects\untitled" />
+          <option name="myCopyRoot" value="C:\Users\admin\IdeaProjects\untitled" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a0bf915-c962-494c-9e03-67baceb529de" name="Default Changelist" comment="" />
+      <created>1575613771381</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575613771381</updated>
+      <workItem from="1575613789896" duration="75000" />
+      <workItem from="1575705294032" duration="1702000" />
+    </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <created>1575707073439</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575707073439</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="466" y="0" key="#Project_Structure" timestamp="1575707105177">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="466" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1575707105177" />
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1575707055489">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1575707055489" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1575706937071">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1575706937071" />
+    <state x="329" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1575705302470">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="329" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1575705302470" />
+    <state x="531" y="58" width="488" height="622" key="svn.repositoryBrowser" timestamp="1575706742566">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="531" y="58" width="488" height="622" key="svn.repositoryBrowser/0.0.1280.680@0.0.1280.680" timestamp="1575706742566" />
+    <state x="433" y="335" key="svn.upgradeDialog" timestamp="1575706777038">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="433" y="335" key="svn.upgradeDialog/0.0.1280.680@0.0.1280.680" timestamp="1575706777038" />
+  </component>
+</project>
