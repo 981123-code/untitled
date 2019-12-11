@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a0bf915-c962-494c-9e03-67baceb529de" name="Default Changelist" comment="init">
-      <change afterPath="$PROJECT_DIR$/untitled.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +50,7 @@
   </component>
   <component name="SvnConfiguration" cleanupOnStartRun="true">
     <configuration useDefault="false">C:\Users\admin\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
     <option name="runUnderTerminal" value="true" />
   </component>
   <component name="TaskManager">
@@ -61,6 +62,8 @@
       <updated>1575613771381</updated>
       <workItem from="1575613789896" duration="75000" />
       <workItem from="1575705294032" duration="4791000" />
+      <workItem from="1575714887845" duration="68000" />
+      <workItem from="1576028621275" duration="816000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1575707073439</created>
@@ -95,10 +98,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="105" y="0" key="#Project_Structure" timestamp="1575708779171">
+    <state x="105" y="0" key="#Project_Structure" timestamp="1575712488486">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="105" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1575708779171" />
+    <state x="105" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1575712488486" />
     <state x="289" y="0" key="CommitChangelistDialog2" timestamp="1575710995433">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -111,18 +114,26 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="293" y="131" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1575709991943" />
-    <state x="142" y="0" key="SettingsEditor" timestamp="1575709900800">
+    <state x="510" y="296" width="269" height="218" key="Github.ShareDialog" timestamp="1575713263129">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1575709900800" />
-    <state x="259" y="102" key="Vcs.Push.Dialog.v2" timestamp="1575710078541">
+    <state x="510" y="296" width="269" height="218" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1575713263129" />
+    <state x="432" y="91" key="Github.UntrackedFilesDialog" timestamp="1575712454778">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="259" y="102" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1575710078541" />
-    <state x="329" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1575705302470">
+    <state x="432" y="91" key="Github.UntrackedFilesDialog/0.0.1280.680@0.0.1280.680" timestamp="1575712454778" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1575712348285">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="329" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1575705302470" />
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1575712348285" />
+    <state x="259" y="102" key="Vcs.Push.Dialog.v2" timestamp="1576028696239">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="259" y="102" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1576028696239" />
+    <state x="329" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1576028629106">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="329" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1576028629106" />
     <state x="531" y="58" width="488" height="622" key="svn.repositoryBrowser" timestamp="1575706742566">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
