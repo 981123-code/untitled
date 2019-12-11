@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a0bf915-c962-494c-9e03-67baceb529de" name="Default Changelist" comment="init">
+    <list default="true" id="4a0bf915-c962-494c-9e03-67baceb529de" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +20,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1Ub86pZHyFQ6YewgSIr0JtCap8e" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -34,7 +36,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Confirmation" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -63,7 +65,7 @@
       <workItem from="1575613789896" duration="75000" />
       <workItem from="1575705294032" duration="4791000" />
       <workItem from="1575714887845" duration="68000" />
-      <workItem from="1576028621275" duration="816000" />
+      <workItem from="1576028621275" duration="1001000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1575707073439</created>
@@ -86,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575707413064</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="init">
+      <created>1576029495815</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1576029495815</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,10 +111,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="105" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1575712488486" />
-    <state x="289" y="0" key="CommitChangelistDialog2" timestamp="1575710995433">
+    <state x="288" y="0" key="CommitChangelistDialog2" timestamp="1576029491781">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="289" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1575710995433" />
+    <state x="288" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1576029491781" />
     <state x="166" y="50" key="DiffContextDialog" timestamp="1575710982901">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -122,10 +131,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="432" y="91" key="Github.UntrackedFilesDialog/0.0.1280.680@0.0.1280.680" timestamp="1575712454778" />
-    <state x="142" y="0" key="SettingsEditor" timestamp="1575712348285">
+    <state x="142" y="0" key="SettingsEditor" timestamp="1576029668689">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1575712348285" />
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1576029668689" />
     <state x="259" y="102" key="Vcs.Push.Dialog.v2" timestamp="1576028696239">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
